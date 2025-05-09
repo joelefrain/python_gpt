@@ -1,4 +1,4 @@
-# 📘 Curso: Automatización y Visualización de Datos con Python
+# 📘 Curso: Python y ChatGPT aplicados al procesamiento de instrumentación geotécnica
 
 ## 🎯 Objetivo general
 Adquirir habilidades para automatizar el procesamiento de datos técnicos (como sensores o instrumentación geotécnica), generar visualizaciones efectivas y crear reportes profesionales utilizando Python.
@@ -7,21 +7,17 @@ Adquirir habilidades para automatizar el procesamiento de datos técnicos (como 
 
 ## 🗓️ Plan de sesiones (6 clases)
 
-### 🔧 Sesión 1: Introducción a Python y herramientas de apoyo
+### 🔧 Sesión 1: Introducción a Python y uso de ChatGPT como asistente técnico
 
-**Objetivo:** Entender qué es Python, configurarlo y ejecutar scripts básicos con apoyo de ChatGPT.
+**Objetivo:** Comprender qué es Python, configurarlo y empezar a programar con apoyo de herramientas como ChatGPT.
 
 - ¿Qué es Python? ¿Por qué es útil en ingeniería?
-- Instalación de entorno:
+- Instalación del entorno de trabajo:
   - Python + VS Code
-  - Alternativas: Replit, JupyterLab
-- Primer script: `print("Hola, mundo")`
-- Uso técnico de ChatGPT para resolver problemas
-- Comandos y estructuras básicas:
-  - Condicionales (`if`, `else`)
-  - Bucles (`for`, `while`)
-  - Arreglos (listas, diccionarios)
-  - Funciones
+  - Alternativas: Replit, JupyterLab (uso desde navegador)
+- Tu primer script:  
+  ```python
+  print("Hola, mundo")
 
 ---
 
